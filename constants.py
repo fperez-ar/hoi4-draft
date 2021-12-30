@@ -19,3 +19,20 @@ na = 'non-aligned'
 de = 'democratic'
 fa = 'fascist'
 co = 'communist'
+
+# aliases
+country_alias = {
+  'germany':          ['german reich', 'reich', 'nazi germany'],
+  'ussr':             ['soviet union', 'russia'],
+  'dutch east indies':['indonesia'],
+  'united states':    ['usa', 'united states of america'],
+  'united kingdom':   ['uk', 'britain'],
+  'communist china':  ['soviet china', 'commie china'],
+  'british raj':      ['india'],
+  'british malaya':   ['malaysia'],
+  'canada':           ['dominion of canada'],
+  'greece':           ['kingdom of greece'],
+  'guangxi clique':   ['guanxi'],
+  'xibei san ma':     ['xibei'],
+  'new zealand':      ['nz']
+}

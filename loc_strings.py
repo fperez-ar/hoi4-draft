@@ -1,0 +1,13 @@
+BOT_ROULETTE_RESET = 'Reiniciado el sorteo de paises...'
+BOT_ROULETTE_RESULT = 'Sacaste:'
+BOT_READY = '¡Listo para recibir ordenes, señor!'
+BOT_HELP = 'Comandos disponibles:'
+
+HELP_ROULETTE_RESET = 'Reinicia el sorteo de paises'
+HELP_ROULETTE_MAJ = 'Sortea un pais mayor'
+HELP_ROULETTE_MIN = 'Sortea un pais menor'
+HELP_ROULETTE_BAN = 'Saca el pais del sorteo'
+HELP_ROULETTE_COMMIES = 'Sortea un pais comunista'
+HELP_ROULETTE_FASCIS = 'Sortea un pais fascista'
+HELP_ROULETTE_DEMO = 'Sortea un pais democratico'
+HELP_ROULETTE_NONA = 'Sortea un pais no alineado'
